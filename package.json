@@ -21,6 +21,7 @@
   "devDependencies": {
     "@config-plugins/detox": "7.0.0",
     "@expo/cli": "0.16.8",
+    "@expo/config-plugins": "^7.8.4",
     "@expo/metro-runtime": "~3.1.1",
     "@nx/detox": "18.2.4",
     "@nx/eslint": "18.2.4",
@@ -52,6 +53,8 @@
     "jest-circus": "^29.4.1",
     "jest-environment-jsdom": "^29.4.1",
     "jest-expo": "50.0.4",
+    "metro": "^0.80.8",
+    "metro-cache": "^0.80.8",
     "nx": "18.2.4",
     "prettier": "^2.6.2",
     "react-test-renderer": "18.2.0",
